@@ -1,0 +1,19 @@
+{
+  "name": "search-weather-cli",
+  "version": "1.0.2",
+  "description": "查询天气的命令行工具",
+  "main": "index.js",
+  "git repository": "git@github.com:Laineyzhang55/search-weather-cli.git",
+  "bin": {
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lainey",
+  "license": "ISC",
+  "dependencies": {
+    "search-weather": "^1.0.0"
+  }
+}
